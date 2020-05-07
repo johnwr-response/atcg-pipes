@@ -7,6 +7,9 @@ ng serve
 ```
 ng g p shorten --skipTests true
 ng g p filter --skipTests true
+
+ng g p reverse --skipTests true
+ng g p sort --skipTests true
 ```
 
 
