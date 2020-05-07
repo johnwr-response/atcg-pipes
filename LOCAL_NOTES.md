@@ -3,7 +3,8 @@
 npm install
 ng serve
 ```
-
+# Links
+- API Reference: https://angular.io/api?query=pipe
 
 # Git
 ```
