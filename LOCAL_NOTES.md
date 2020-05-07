@@ -3,6 +3,14 @@
 npm install
 ng serve
 ```
+# Pipes
+```
+ng g p shorten --skipTests true
+ng g p filter --skipTests true
+```
+
+
+
 # Links
 - API Reference: https://angular.io/api?query=pipe
 
